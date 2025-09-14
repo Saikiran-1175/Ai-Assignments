@@ -1,3 +1,8 @@
+Saikiran
+B210007
+Roll no: 2
+CSE-C1
+
 # Assignment 1 – Search Algorithms
 
 ## Overview
